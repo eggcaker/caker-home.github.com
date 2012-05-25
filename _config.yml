@@ -9,7 +9,7 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 快乐人家
+title : 快乐一家
 tagline: Site Tagline
 author :
   name : 张同柱，刘春兰，妞妞 
@@ -79,7 +79,8 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : false
+    
     disqus :
       short_name : jekyllbootstrap
     livefyre :
